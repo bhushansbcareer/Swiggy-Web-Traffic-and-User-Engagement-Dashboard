@@ -31,7 +31,7 @@ The dataset includes detailed web traffic data with the following key columns:
 - Built an interactive Tableau dashboard to visualize key performance indicators (KPIs).  
 - Supported data-driven decisions to improve website performance and drive revenue growth.
 
-## 🛠️ Tools Used  
+## Tools Used  
 - **Tableau** – Dashboard creation and storytelling.  
 - **Excel** – Data cleaning and preprocessing.  
 - **Data Visualization Techniques** – KPI cards, charts, filters, tooltips.
