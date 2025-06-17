@@ -32,7 +32,7 @@ The dataset includes detailed web traffic data with the following key columns:
 - Supported data-driven decisions to improve website performance and drive revenue growth.
 
 ## Tools Used  
-- **Tableau** – Dashboard creation and storytelling.  
+- **Tableau** – Dashboard creation.  
 - **Excel** – Data cleaning and preprocessing.  
 - **Data Visualization Techniques** – KPI cards, charts, filters, tooltips.
 
